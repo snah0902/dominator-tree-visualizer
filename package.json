@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ace-builds": "^1.39.0",
+    "dominators": "^1.1.2",
     "react": "^19.0.0",
+    "react-ace": "^14.0.1",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
